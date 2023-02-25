@@ -1,4 +1,4 @@
-***Automation Database Creation: Bash Script**
+# Practice of using Adapter pattern
 
 Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
 
