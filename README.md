@@ -15,4 +15,4 @@ You can create an Adapter. This is a special object that converts the interface 
 
 Adapters can not only convert data into various formats but can also help objects with different interfaces collaborate.
 
-<p align="center"><img alt="Design Patterns" src="assets/adapter.jpg" /></p>
+<p align="center"><img alt="Adapter Pattern" src="assets/adapter.png" /></p>
