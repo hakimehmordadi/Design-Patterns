@@ -14,3 +14,5 @@ You can change your liberary to could work with XML, However this might break so
 You can create an Adapter. This is a special object that converts the interface of one object so that another object can understand it.
 
 Adapters can not only convert data into various formats but can also help objects with different interfaces collaborate.
+
+<p align="center"><img alt="Design Patterns" src="assets/adapter.jpg" /></p>
