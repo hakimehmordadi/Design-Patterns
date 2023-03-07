@@ -1,0 +1,22 @@
+{
+  "name": "sample-project-using-adapter-pattern",
+  "version": "1.0.0",
+  "description": "***Automation Database Creation: Bash Script**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakimehmordadi/Sample-Project-Using-Adapter-Pattern.git"
+  },
+  "author": "Hakimeh Mordadi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakimehmordadi/Sample-Project-Using-Adapter-Pattern/issues"
+  },
+  "homepage": "https://github.com/hakimehmordadi/Sample-Project-Using-Adapter-Pattern#readme",
+  "dependencies": {
+    "axios": "^1.3.4"
+  }
+}
